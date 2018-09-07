@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "288265138390",
+    "firebase_url": "https://chatapp-76cf4.firebaseio.com",
+    "project_id": "chatapp-76cf4",
+    "storage_bucket": "chatapp-76cf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288265138390:android:75e73a698f6f5033",
+        "android_client_info": {
+          "package_name": "com.soren.sagen.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288265138390-fnu4sso4hicjkjfmvskpfagsidl29fgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfdkwk8CXBWMT6P6XBgv4q8MXY-c0NTZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
